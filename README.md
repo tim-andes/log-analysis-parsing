@@ -1,4 +1,4 @@
-# Parsing and log analysis,
+# Parsing and log analysis
 Extracting requested data from logs: Failed login attempts, invalid user, and IP addresses.
 
 ## TO DO
